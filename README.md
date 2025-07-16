@@ -1,1 +1,1 @@
-live url:- https://legal-corp-ai.netlify.app/
+live url:- https://legal-corp-ai.netlify.app/ 
