@@ -1,0 +1,19 @@
+/* .sidebar-scroll-thin {
+  scrollbar-width: thin;
+  overflow-y: auto;
+} */
+
+::-webkit-scrollbar {
+  width:4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: oklch(0.09 0.01 255.09);
+}
+
+::-webkit-scrollbar-thumb {
+  cursor: pointer;
+  background: oklch(0.556 0 0);
+  border-radius: 10px;
+}
